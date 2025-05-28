@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a8b199d.css",
-    "main.js": "/static/js/main.ad5e3f24.js",
-    "static/js/453.eda0325e.chunk.js": "/static/js/453.eda0325e.chunk.js",
-    "index.html": "/index.html",
-    "main.1a8b199d.css.map": "/static/css/main.1a8b199d.css.map",
-    "main.ad5e3f24.js.map": "/static/js/main.ad5e3f24.js.map",
-    "453.eda0325e.chunk.js.map": "/static/js/453.eda0325e.chunk.js.map"
+    "main.css": "/Game-Deals/static/css/main.1a8b199d.css",
+    "main.js": "/Game-Deals/static/js/main.bd2fa293.js",
+    "static/js/453.eda0325e.chunk.js": "/Game-Deals/static/js/453.eda0325e.chunk.js",
+    "index.html": "/Game-Deals/index.html",
+    "main.1a8b199d.css.map": "/Game-Deals/static/css/main.1a8b199d.css.map",
+    "main.bd2fa293.js.map": "/Game-Deals/static/js/main.bd2fa293.js.map",
+    "453.eda0325e.chunk.js.map": "/Game-Deals/static/js/453.eda0325e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8b199d.css",
-    "static/js/main.ad5e3f24.js"
+    "static/js/main.bd2fa293.js"
   ]
 }
