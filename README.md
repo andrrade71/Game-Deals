@@ -24,10 +24,6 @@ Este projeto é um site desenvolvido para ajudar utilizadores a encontrar as mel
     * Data de Lançamento
 * **Paginação:** Navegação entre múltiplas páginas de ofertas.
 * **Processamento de Ofertas:** Apenas a melhor oferta (menor preço) para cada jogo único é exibida na lista principal por página de resultados da API.
-* **Tema Escuro (Dark Mode):** Suporte a tema escuro baseado na preferência do sistema operativo do utilizador.
-* **Scroll para o Topo:** Ao mudar de página, a visualização volta automaticamente para o topo.
-* **Favicon Personalizado.**
-* **Imagem de Fundo Personalizada** (ou cor de fundo, dependendo da sua última implementação).
 
 ## 🛠️ Tecnologias Utilizadas
 
